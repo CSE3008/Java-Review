@@ -122,6 +122,9 @@ const users = [
 ];
 
 // Usuarios con mas de 100 en su cuenta
+function balance(users){
+  return users.balance
+}
 
 // Usuarios donde su email sea mayor a 20 caracteres
 
